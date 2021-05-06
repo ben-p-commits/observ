@@ -8,6 +8,4 @@ let cli = CLI(
 )
 
 cli.commands = [WatchCommand()]
-
 cli.go()
-
